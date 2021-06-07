@@ -10,7 +10,7 @@ $ git clone
 ```
 * Open  the project on VS Code/ your editor of choice
 * Open the project on live server
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Open live link on https://davidnjungo-lab.github.io/My-portfolio/
 ## Known Bugs
 No known bugs yet.
 ## Technologies Used
@@ -18,5 +18,5 @@ Languages used are purely html and css.
 ## Support and contact details
 If you would like to reach me,contact me through email at davidnjungo3@gmail.com
 ### License
-[MIT LICENSE] [https://choosealicense.com/licenses/mit/]
+[MIT LICENSE](https://choosealicense.com/licenses/mit/)
 Copyright (c) {2021} **David**
