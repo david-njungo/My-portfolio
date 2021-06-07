@@ -28,7 +28,7 @@ a:link{
 }
 img{
     position: relative;
-    left:40%;
+    left:30%;
 }
 .ip{
     margin:20px;
@@ -40,7 +40,13 @@ img{
     text-align: center;
     height:400px;
 }
+#aboutme{
+    height:500px;
+}
 .about{
     width:60%;
     padding-left:30%;
+    font-style: italic;
+    font-size: larger;
+    color: rgba(245, 241, 20, 0.932);
 }
