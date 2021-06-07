@@ -34,3 +34,9 @@ img{
     margin:20px;
     background-color: violet;
 }
+#contacts{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    height:400px;
+}
