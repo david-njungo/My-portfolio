@@ -16,3 +16,8 @@ a:link{
     color: white;
     font-weight: 700;
 }
+.sidenav{
+    background-color: rgb(201, 21, 75);
+    width: 100%;
+    margin-bottom: 30px;
+}
