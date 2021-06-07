@@ -18,5 +18,5 @@ Languages used are purely html and css.
 ## Support and contact details
 If you would like to reach me,contact me through email at davidnjungo3@gmail.com
 ### License
-[MIT LICENSE][./MIT LICENSE]
+[MIT LICENSE] [https://choosealicense.com/licenses/mit/]
 Copyright (c) {2021} **David**
